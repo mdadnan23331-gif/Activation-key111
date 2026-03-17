@@ -34,5 +34,12 @@
         "key": "NOOB",
         "expirydate": "19-03-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "device456",
+        "key": "key67890",
+        "expirydate": "15-06-2025",
+        "Allowoffline": false,
+        "status": "active"   
     }
 ]
