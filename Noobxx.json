@@ -14,28 +14,11 @@
         "status": "active"  
     },
     {
-        "device_id": "vv",
-        "key": "nood444",
-        "expirydate": "19-03-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "AA",
-        "key": "NOOB",
-        "expirydate": "19-03-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "AA",
-        "key": "NOOB",
-        "expirydate": "19-03-2027",
-        "Allowoffline": false
-    },
-    {
         "device_id": "9957a43dbd3bbd67",
         "key": "NOOB444",
         "expirydate": "19-03-2026",
         "Allowoffline": false
+        "status": "active"
     },
     {
         "device_id": "ff7fd1c7d8b5cc7b",
